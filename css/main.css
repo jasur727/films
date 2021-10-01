@@ -1,0 +1,9 @@
+.list__item {
+  width: 250px;
+  padding: 17px;
+  border: 1px solid black;
+}
+
+.genre-li{
+  color: rgb(252, 42, 42);
+}
